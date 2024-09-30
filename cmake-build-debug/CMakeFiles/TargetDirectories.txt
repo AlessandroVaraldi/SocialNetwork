@@ -1,0 +1,3 @@
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/cmake-build-debug/CMakeFiles/PROGETTO.dir
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/cmake-build-debug/CMakeFiles/edit_cache.dir

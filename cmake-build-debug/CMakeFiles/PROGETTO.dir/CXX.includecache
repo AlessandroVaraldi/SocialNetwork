@@ -1,0 +1,194 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Address.cpp
+Address.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Address.h
+iostream
+-
+sstream
+-
+algorithm
+-
+
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Address.h
+iostream
+-
+
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Company_User.cpp
+Company_User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Company_User.h
+algorithm
+-
+
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Company_User.h
+User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/User.h
+Simple_User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Simple_User.h
+iostream
+-
+
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Date.cpp
+Date.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Date.h
+iostream
+-
+ctime
+-
+sstream
+-
+iomanip
+-
+
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Date.h
+iostream
+-
+
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Graph.hpp
+iostream
+-
+string
+-
+map
+-
+vector
+-
+algorithm
+-
+
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Group_User.cpp
+Group_User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Group_User.h
+
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Group_User.h
+User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/User.h
+Simple_User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Simple_User.h
+Date.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Date.h
+Graph.hpp
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Graph.hpp
+iostream
+-
+
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Logger.cpp
+Logger.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Logger.h
+User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/User.h
+Simple_User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Simple_User.h
+Company_User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Company_User.h
+Group_User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Group_User.h
+News.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/News.h
+iostream
+-
+vector
+-
+fstream
+-
+sstream
+-
+algorithm
+-
+
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Logger.h
+vector
+-
+list
+-
+algorithm
+-
+fstream
+-
+Graph.hpp
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Graph.hpp
+Date.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Date.h
+News.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/News.h
+Simple_User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Simple_User.h
+Company_User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Company_User.h
+Group_User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Group_User.h
+
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/News.cpp
+News.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/News.h
+Date.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Date.h
+Graph.hpp
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Graph.hpp
+map
+-
+
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/News.h
+iostream
+-
+vector
+-
+User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/User.h
+
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Simple_User.cpp
+Simple_User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Simple_User.h
+algorithm
+-
+
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Simple_User.h
+User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/User.h
+Date.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Date.h
+Graph.hpp
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Graph.hpp
+iostream
+-
+vector
+-
+
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/User.cpp
+User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/User.h
+
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/User.h
+iostream
+-
+map
+-
+Date.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Date.h
+Address.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Address.h
+Graph.hpp
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Graph.hpp
+
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/main.cpp
+iostream
+-
+vector
+-
+Logger.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Logger.h
+News.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/News.h
+User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/User.h
+Simple_User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Simple_User.h
+Company_User.h
+C:/Users/Alessio/Desktop/Nuova cartella/Progetto-di-Algoritmi-master/PROGETTO/Company_User.h
+
